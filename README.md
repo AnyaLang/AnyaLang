@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnyaLang
-- 👀 I was studying economics but want to switch my careeer.
-- 🌱 I’m currently learning Python with the Python Core course from SoftServe
+- 🌱 I was studying economics and now pursuing MSc in Sustainable Management and Technology
 - 💞️ I’m looking to collaborate on various projects and practise my skills.
 - 📫 How to reach me dovgaanna@gmail.com
 
