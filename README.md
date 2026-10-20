@@ -1,8 +1,10 @@
 Hi there, I'm Anna! 👋
 
-💼 I'm a Finance Digital Analyst at Axpo, working at the intersection of finance, data, and technology.
+💼 I'm a Finance Digital Analyst at Axpo, working at the intersection of Finance and Technology as part of Group Controlling.
 
-🚀 My background combines business, sustainability, and digital transformation. I'm particularly interested in how technology can turn complex business challenges into practical, data-driven solutions.
+🚀 Our Finance Digital Solutions team bridges these two worlds, focusing on two key pillars: Data & Business Intelligence and AI. Together, we explore how digital solutions can simplify financial processes, unlock the value of data, and enable smarter decision-making.
+
+🌱 My background combines business, sustainability, and digital transformation. I'm particularly interested in how technology can turn complex business challenges into practical, data-driven solutions.
 
 📊 What I'm working on: From financial reporting and Power BI to data pipelines and Databricks.
 
